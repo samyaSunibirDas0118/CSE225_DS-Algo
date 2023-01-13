@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580788747 source:c:\users\tonmoay deb\desktop\lab instructor\cse225\lab codes\lab 2\cse225lab2\main.cpp
+	<iostream>
+	"dynarr.cpp"
+
+1580804185 c:\users\tonmoay deb\desktop\lab instructor\cse225\lab codes\lab 2\cse225lab2\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1580804130 c:\users\tonmoay deb\desktop\lab instructor\cse225\lab codes\lab 2\cse225lab2\dynarr.h
+
